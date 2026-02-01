@@ -62,16 +62,9 @@ Este repositório foi pensado para facilitar adaptação para diferentes context
 > Atualize os nomes abaixo conforme os arquivos existirem no repositório. [Assistido por IA]
 
 - `plano-de-aula.md` — Plano completo (objetivos, minutagem, recursos, avaliação). [Assistido por IA]  
-- `materiais/`  
-  - `textos-curtos.md` — 2 textos introdutórios (150–200 palavras). [Assistido por IA]  
-  - `exercicio-5-questoes.md` — exercício com gabarito. [Assistido por IA]  
-  - `atividade-pratica-grupo.md` — atividade prática (20–30 min). [Assistido por IA]  
-- `adaptacoes/`  
-  - `perfil-a-dificuldade-leitura.md` — adaptações e avaliação adaptada. [Assistido por IA]  
-  - `perfil-b-avancado.md` — extensões e conexões hermenêuticas. [Assistido por IA]  
-- `i18n/`  
+
   - `README.en.md` — versão em inglês (opcional). [Assistido por IA]  
-  - `glossary-bilingue.md` — glossário PT/EN (opcional). [Assistido por IA]
+  - `Slides_Plano_de_Aula_DIO2_completo.md` — glossário PT/EN (opcional). [Assistido por IA]
 
 ---
 
